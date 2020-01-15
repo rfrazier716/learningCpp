@@ -11,3 +11,6 @@ project ("learningCpp")
 
 # Hello world to make sure compiler works
 add_executable(hello_world "src/hello_world.cpp")
+
+# Smart pointers
+add_executable(smart_pointers "src/smart_pointers/smart_pointers.cpp")
