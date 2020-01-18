@@ -18,6 +18,9 @@ add_executable(hello_world "src/hello_world.cpp")
 # Smart pointers
 add_executable(smart_pointers "src/smart_pointers/smart_pointers.cpp")
 
+# fileIO
+add_executable(fileIO "src/fileIO/fileIO.cpp")
+
 # Classes
 add_executable(classes "src/classes/classes.cpp")
 add_library(pen "src/classes/pen.cpp")
